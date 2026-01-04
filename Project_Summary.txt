@@ -1,0 +1,67 @@
+Project Title:
+Super Store Sales Dashboard using Power BI
+
+Project Objective:
+The objective of this project is to analyze sales, profit, orders, delivery performance, and regional trends of a super store. This dashboard helps business stakeholders understand sales performance, identify profitable regions and segments, and support data-driven decision-making.
+
+Project Description:
+This project involves building an interactive Power BI dashboard using Super Store sales data. The dashboard provides insights into total sales, orders, profit, average delivery time, payment modes, shipping methods, customer segments, categories, sub-categories, regions, and monthly performance trends.
+
+Tools & Technologies Used:
+- Power BI for dashboard development and data visualization
+- Power Query for data cleaning and transformation
+- DAX for calculated measures and KPIs
+- Data Modeling for relationship management
+
+Data Preparation & Cleaning:
+- Removed duplicate and null records
+- Converted data types (dates, currency, numeric fields)
+- Renamed columns for better readability
+- Created calculated columns and measures
+- Optimized data model for performance
+
+Key Analysis Performed:
+1. Sales & Profit Analysis:
+   - Calculated total sales and total profit
+   - Analyzed sales and profit trends over time
+
+2. Order & Delivery Analysis:
+   - Evaluated total orders
+   - Calculated average delivery time
+
+3. Payment Mode Analysis:
+   - Compared sales across Online, COD, and Card payment methods
+
+4. Shipping Mode Analysis:
+   - Analyzed performance of Standard, Second Class, First Class, and Same Day shipping
+
+5. Category & Sub-Category Analysis:
+   - Compared sales across Furniture, Technology, and Office Supplies
+   - Identified top-selling sub-categories like Phones, Chairs, and Binders
+
+6. Segment Analysis:
+   - Analyzed sales contribution from Consumer, Corporate, and Home Office segments
+
+7. Regional & State-wise Analysis:
+   - Compared sales across Central, East, South, and West regions
+   - Visualized profit and sales by state using map visualization
+
+8. Monthly Trend Analysis:
+   - Analyzed month-wise sales and profit trends for different years
+
+Key KPIs:
+- Total Sales
+- Total Orders
+- Total Profit
+- Average Delivery Time
+
+Business Impact:
+This dashboard helps businesses:
+- Identify profitable regions and segments
+- Optimize shipping and delivery strategies
+- Improve payment and sales strategies
+- Monitor monthly and yearly performance
+- Support strategic planning and forecasting
+
+Outcome:
+This project demonstrates strong skills in Power BI, data analysis, business intelligence, and visualization. It is suitable for Data Analyst, Business Analyst, and BI Developer roles.
